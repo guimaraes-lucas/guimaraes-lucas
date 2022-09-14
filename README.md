@@ -1,4 +1,4 @@
-### Olá! 👋 Meu nome é Lucas e estou aprendendo programação <br> Hi! 👋 My name is Lucas and I'm learning programming
+# Olá! 👋 Meu nome é Lucas e estou aprendendo programação <br> Hi! 👋 My name is Lucas and I'm learning programming
 
 ##
 <div align="center">
