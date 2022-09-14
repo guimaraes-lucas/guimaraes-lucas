@@ -1,7 +1,7 @@
 # Olá! 👋 Meu nome é Lucas e estou aprendendo programação <br> Hi! 👋 My name is Lucas and I'm learning programming
 
 ##
-<div style="display: inline_block">
+<div align="left">
   <a href="https://github.com/guimaraes-lucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimaraes-lucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <br>
