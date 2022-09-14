@@ -1,11 +1,11 @@
 # Olá! 👋 Meu nome é Lucas e estou aprendendo programação <br> Hi! 👋 My name is Lucas and I'm learning programming
 
 ##
-<div align="left">
+<div align="center">
   <a href="https://github.com/guimaraes-lucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimaraes-lucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=guimaraes-lucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraes-lucas&layout=compact&langs_count=7&theme=radical"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraes-lucas&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ##
