@@ -1,10 +1,10 @@
-## Olá! 👋 Meu nome é Lucas e estou aprendendo programação <br> Hi! 👋 My name is Lucas and I'm learning programming
+### Olá! 👋 Meu nome é Lucas e estou aprendendo programação <br> Hi! 👋 My name is Lucas and I'm learning programming
 
 ##
-<div style="display: inline_block" align="center">
+<div align="center">
   <a href="https://github.com/guimaraes-lucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimaraes-lucas&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraes-lucas&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guimaraes-lucas&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraes-lucas&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
 ##
