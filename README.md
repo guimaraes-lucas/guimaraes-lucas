@@ -17,11 +17,11 @@ Explorando software livre, automação e projetos offline.
 
 ### 👨‍💻 Sobre
 
-Técnico de TI com interesse em **Linux, automação, inteligência artificial local e open source**. Uso o CachyOS com KDE Plasma e gosto de experimentar soluções práticas, especialmente as que funcionam de forma independente e offline.
+Técnico de TI com interesse em **Linux, automação, inteligência artificial local e open source**. Gosto de experimentar soluções práticas, especialmente as que funcionam de forma independente e offline.
 
 ### ⚙️ Tecnologias e ferramentas
 
-`Linux` · `CachyOS` · `KDE Plasma` · `Python` · `Bash` · `Git` · `Ollama` · `Termux`
+`Linux` · `Python` · `Bash` · `Git` · `Ollama` · `Termux`
 
 ### 🚀 Projetos
 
