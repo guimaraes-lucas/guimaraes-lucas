@@ -1,27 +1,91 @@
-# Olá! 👋 Meu nome é Lucas e estou aprendendo programação <br> Hi! 👋 My name is Lucas and I'm learning programming
+<!-- Perfil GitHub • Lucas Gustavo -->
+<div align="center">
 
-##
+# Olá, eu sou o Lucas! 👋
+
+### `Técnico de TI` • `Linux Enthusiast` • `Criador de projetos`
+
+**Tecnologia para explorar, entender, personalizar e construir.**
+
+<img src="https://img.shields.io/badge/Linux-CachyOS-1793D1?style=for-the-badge&logo=linux&logoColor=white" alt="Linux: CachyOS" />
+<img src="https://img.shields.io/badge/Desktop-KDE%20Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white" alt="Desktop: KDE Plasma" />
+<img src="https://img.shields.io/badge/Interesses-IA%20local%20%7C%20Open%20Source-8A2BE2?style=for-the-badge" alt="IA local e open source" />
+
+</div>
+
+---
+
+### 👨‍💻 Sobre mim
+
+Sou **técnico de TI**, curioso por natureza e apaixonado por descobrir o que dá para fazer com hardware, software e boas ideias. Gosto de experimentar, aprender na prática e transformar ideias em projetos funcionais.
+
+- 🐧 **Linux e open source:** uso **CachyOS com KDE Plasma** e gosto de personalização, terminal, troubleshooting e otimização.
+- 🧠 **Inteligência artificial:** exploro **LLMs locais, Ollama, Python**, memória persistente e aplicações de IA.
+- 🛠️ **Projetos e infraestrutura:** tenho interesse em **homelab, automação, ferramentas offline, Termux e cyberdecks**.
+- 🎮 **Games e emulação:** gosto de jogos, preservação digital, emulação e de entender como a tecnologia funciona por trás deles.
+- 📚 **Aprendizado contínuo:** livros, programação e tudo que envolva tecnologia.
+
+### ⚙️ Tecnologias e ferramentas do meu universo
+
 <div align="left">
-  <a href="https://github.com/guimaraes-lucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guimaraes-lucas&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
-  <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraes-lucas&layout=compact&langs_count=7&theme=radical"/>
+
+![Linux](https://img.shields.io/badge/Linux-20232A?style=flat-square&logo=linux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-20232A?style=flat-square&logo=archlinux&logoColor=1793D1)
+![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-20232A?style=flat-square&logo=kde&logoColor=1D99F3)
+![Python](https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB)
+![Bash](https://img.shields.io/badge/Shell-20232A?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=flat-square&logo=github&logoColor=white)
+![Android](https://img.shields.io/badge/Android%20%2F%20Termux-20232A?style=flat-square&logo=android&logoColor=3DDC84)
+![Ollama](https://img.shields.io/badge/Ollama-20232A?style=flat-square&logo=ollama&logoColor=white)
+
 </div>
 
-##
-### 🚀 Linguagens que estou aprendendo 📗📘📙
+> Minha bancada é um laboratório: testo ideias, quebro coisas, entendo o motivo e tento melhorar a próxima versão.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+### 🚀 Projetos que estou explorando
+
+| Projeto | Ideia |
+| :--- | :--- |
+| **📚 Atlas** | Organização de uma biblioteca offline e acesso local a conteúdo digital. |
+| **🧠 Minerva** | Assistente de IA local em Python, com modelos via Ollama e armazenamento de conversas. |
+| **🎲 RPG com IA** | Experiência solo com IA como mestre, sistema próprio e memória persistente para campanhas longas. |
+| **📱 Cyberdeck móvel** | Transformar um smartphone Android em uma estação portátil para Linux, terminal, homelab e ferramentas offline. |
+
+<sub>Projetos pessoais em desenvolvimento e experimentação. Alguns ainda não possuem repositório público.</sub>
+
+### 🎯 O que me motiva
+
+```text
+$ whoami
+Técnico de TI | Entusiasta Linux | Curioso por tecnologia
+
+$ interesses --listar
+Linux • IA local • Python • Homelab • Open Source • Jogos
+
+$ objetivo
+Aprender, experimentar, construir e compartilhar.
+```
+
+### 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimaraes-lucas&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais presentes nos repositórios públicos de Lucas" />
+
 </div>
 
-##
-### 🐧 Mihas redes sociais
+<sub>As estatísticas dependem da disponibilidade de um serviço externo e não representam necessariamente todas as tecnologias que utilizo.</sub>
 
-<br>
-<div> 
-    <a href="https://instagram.com/guimaraeslucasgustavo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://discordapp.com/users/Lukan Arckman#7975" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:luc53706@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/lucas-gustavo-barbosa-guimar%C3%A3es-61121623a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+### 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gustavo-barbosa-guimar%C3%A3es-61121623a)
+[![Instagram](https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guimaraeslucasgustavo)
+
+---
+
+<div align="center">
+
+*“A melhor forma de aprender tecnologia é colocar a mão na massa.”*
+
 </div>
