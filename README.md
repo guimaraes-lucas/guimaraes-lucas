@@ -77,11 +77,6 @@ Aprender, experimentar, construir e compartilhar.
 
 <sub>As estatísticas dependem da disponibilidade de um serviço externo e não representam necessariamente todas as tecnologias que utilizo.</sub>
 
-### 🌐 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gustavo-barbosa-guimar%C3%A3es-61121623a)
-[![Instagram](https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guimaraeslucasgustavo)
-
 ---
 
 <div align="center">
