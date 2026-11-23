@@ -1,6 +1,6 @@
 <div align="center">
 
-# guimaraes-lucas
+# GUIMBLUC
 
 **TI · Linux · Python · IA local**
 
